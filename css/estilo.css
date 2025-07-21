@@ -19,7 +19,7 @@ header{
     margin: auto;
     width: 1000px;
     height: 83px;
-    background: url(/img/cabezote.jpg);
+    background: url(../img/cabezote.jpg);
 }
 #logo{
     position: absolute;
@@ -35,7 +35,7 @@ nav{
     margin: auto;
     width: 1000px;
     height: 45px;
-    background: url(/img/nav.jpg);
+    background: url(../img/nav.jpg);
     border-bottom: 1px solid #bcd1cb;
 }
 
@@ -71,7 +71,7 @@ nav ul li{
     margin: auto;
     width: 1000px;
     height: 26px;
-    background: url(/img/backBotonesSlide.jpg);
+    background: url(../img/backBotonesSlide.jpg);
 }
 
 #botoneraSlide ul{
@@ -309,7 +309,7 @@ section#contactenos form input#enviar{
     margin: auto;
     width: 1000px;
     height: 190px;
-    background: url(/img/backBottom.jpg);
+    background: url(../img/backBottom.jpg);
 }
 
 #bottom ul li{
@@ -339,7 +339,7 @@ section#contactenos form input#enviar{
     list-style: inside;
     font-size: 15px;
     color: white;
-    list-style-image: url(/img/list.png);
+    list-style-image: url(../img/list.png);
 }
 
 #bottom ul li img{
@@ -371,22 +371,22 @@ section#contactenos form input#enviar{
 }
 
 #bottom ul li ul li:first-child{
-    background: url(/img/facebook.jpg);
+    background: url(../img/facebook.jpg);
     background-size: cover;
 }
 
 #bottom ul li ul li:nth-child(2){
-    background: url(/img/iconoGoogle.jpg);
+    background: url(../img/iconoGoogle.jpg);
     background-size: cover;
 }
 
 #bottom ul li ul li:nth-child(3){
-    background: url(/img/iconoPinterest.jpg);
+    background: url(../img/iconoPinterest.jpg);
     background-size: cover;
 }
 
 #bottom ul li ul li:last-child{
-    background: url(/img/iconoTwitter.jpg);
+    background: url(../img/iconoTwitter.jpg);
     background-size: cover;
 }
 
